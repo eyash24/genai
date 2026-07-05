@@ -1,0 +1,16 @@
+langchain 
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+ipykernel
+
+langgraph
+langsmith
+langchain_tavily
+
+langchain-mcp-adapters
+mcp
+
+langgraph-cli[inmem]
