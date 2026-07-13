@@ -21,3 +21,4 @@ langchain-text-splitters
 sentence-transfromers
 faiss-cpu
 chromadb
+typesense
