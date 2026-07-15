@@ -22,3 +22,5 @@ sentence-transfromers
 faiss-cpu
 chromadb
 typesense
+
+pageindex

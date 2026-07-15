@@ -1,0 +1,44 @@
+Folder PATH listing
+Volume serial number is 00000077 E46F:E08E
+C:.
+¦   app.py
+¦   folder.txt
+¦   tree.txt
+¦   typesense.ipynb
+¦   
++---data
+¦   ¦   books.jsonl
+¦   ¦   test.txt
+¦   ¦   
+¦   +---pdf
+¦   ¦       C4 Views - Overview.pdf
+¦   ¦       Yash Prasad 229309105 Major Project Report V2.pdf
+¦   ¦       
+¦   +---text_files
+¦   ¦       machine_learning.txt
+¦   ¦       python_intro.txt
+¦   ¦       
+¦   +---vector_store
+¦       ¦   chroma.sqlite3
+¦       ¦   
+¦       +---f3020b55-f338-4be7-a93b-dca4a59f6429
+¦               data_level0.bin
+¦               header.bin
+¦               length.bin
+¦               link_lists.bin
+¦               
++---notebooks
+¦       document.ipynb
+¦       
++---src
+    ¦   data_loader.py
+    ¦   embeddings.py
+    ¦   search.py
+    ¦   vectorstore.py
+    ¦   __init__.py
+    ¦   
+    +---__pycache__
+            data_loader.cpython-312.pyc
+            embeddings.cpython-312.pyc
+            __init__.cpython-312.pyc
+            
