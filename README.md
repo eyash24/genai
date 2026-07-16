@@ -6,6 +6,8 @@ Get the below API Keys and save them in .env file
 - OPENAI_API_KEY
 - TAVILY_API_KEY
 - LANGSMITH_API_KEY
+- PAGEINDEX_API_KEY
+- TYPESENSE_API_KEY_ADMIN and TYPESENSE_NODE
 
 Following the below playlist for learning Agentic AI 
 - [Agentic AI with Langgraph](https://youtube.com/playlist?list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO&si=_qvMylJ1-AXYP1BR))
