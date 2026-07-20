@@ -26,3 +26,6 @@ typesense
 pageindex
 
 groq
+
+deepagents
+tavily-python
