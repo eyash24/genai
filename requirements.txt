@@ -24,3 +24,5 @@ chromadb
 typesense
 
 pageindex
+
+groq
